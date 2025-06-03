@@ -1,0 +1,16 @@
+{
+    "name": "Music Token",
+    "symbol": "MUSIC",
+    "description": "This is a music token on Solana.",
+    "image": "https://raw.githubusercontent.com/BrandonABC/music-token-solana-image/main/music-token-image.png",
+    "seller_fee_basis_points": 0,
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/BrandonABC/music-token-solana-image/main/music-token-image.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
